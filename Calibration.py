@@ -3,7 +3,12 @@
 #
 #  Calibration.py
 #  
-#  Copyright 2021  <pi@raspberrypi>
+#  This script can be used to manualy detect,
+#  and adjust the best calibration settings for the Raspberry Pi v2 camera.
+#  
+# Author: João Pinho Araújo NMEC: 73148 
+# VCI 2020/2021
+# Copyright 2021 João Pinho Araújo
 
 from time import sleep
 import cv2
